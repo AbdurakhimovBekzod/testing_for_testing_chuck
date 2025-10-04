@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat Oct 04 17:37:19 GMT 2025","Sat Oct 04 17:37:19 GMT 2025","333","tests","test_chuck","TestChuckNorrisAPI","","","test_create_random_joke_category","Проверка получения шутки по категории"
+"passed","Sat Oct 04 17:40:14 GMT 2025","Sat Oct 04 17:40:14 GMT 2025","612","tests","test_chuck","TestChuckNorrisAPI","","","test_create_random_joke_category","Проверка получения шутки по категории"
