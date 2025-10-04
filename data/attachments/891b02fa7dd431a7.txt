@@ -1,0 +1,16 @@
+Отправляю запрос: https://api.chucknorris.io/jokes/random?category=animal
+✅ Статус-код корректен (200)
+{
+    "categories": [
+        "animal"
+    ],
+    "created_at": "2020-01-05 13:42:19.576875",
+    "icon_url": "https://api.chucknorris.io/img/avatar/chuck-norris.png",
+    "id": "xwjic1sws_yohsfefndaiw",
+    "updated_at": "2020-01-05 13:42:19.576875",
+    "url": "https://api.chucknorris.io/jokes/xwjic1sws_yohsfefndaiw",
+    "value": "Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes."
+}
+✅ Категория корректна
+✅ Проверочное слово 'Chuck' найдено
+🎉 Тест успешно пройден!
