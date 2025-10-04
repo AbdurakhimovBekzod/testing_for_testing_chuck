@@ -1,0 +1,21 @@
+# Created by pytest automatically.
+.pytest_cache/v
+__pycache__/
+.idea/
+.vscode/
+# Виртуальные окружения
+venv/
+env/
+
+# Файлы тестов и отчётов
+.pytest_cache/
+allure-results/
+allure-report/
+
+# Логи
+*.log
+logs/
+
+# Кэш Python
+*.pyc
+*.pyo
